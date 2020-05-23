@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option csharp_namespace = "Jefaturas";
+
+package jefatura;
+
+service jefatura {
+	rpc Create (JefaturaRequest) returns (JefaturaReply);	
+}
+
+message JefaturaRequest {
+	string TITULO = 1;
+    int32 ID_JEFE = 2;
+    int32 ID_SUBROGANTE = 3;
+    int32 ID_EVALUADOR = 4;
+}
+
+message JefaturaReply {
+	bool respuesta = 1; 
+}

@@ -1,0 +1,26 @@
+syntax = "proto3";
+
+option csharp_namespace = "Emails";
+
+package mail;
+
+service Mailer {
+	rpc MailChagedPassword (MailRequest) returns (MailReply);
+ }
+
+message MailRequest {
+	string cuentaDestino = 1;
+	string nombre = 2;
+	int32 codEmail = 3;
+	int32 idPersona = 4;
+}
+
+message MailReply {
+	ErrorCode error = 1;
+}
+
+enum ErrorCode {
+	None = 0;
+	EmailNoEnviado = 300;
+	ServidorNoDisponible = 400;
+}

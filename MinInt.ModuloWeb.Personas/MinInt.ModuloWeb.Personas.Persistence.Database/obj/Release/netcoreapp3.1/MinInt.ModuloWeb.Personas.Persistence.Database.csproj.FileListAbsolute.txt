@@ -1,0 +1,13 @@
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Persistence.Database\bin\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.Persistence.Database.deps.json
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Persistence.Database\bin\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.Persistence.Database.runtimeconfig.json
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Persistence.Database\bin\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.Persistence.Database.runtimeconfig.dev.json
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Persistence.Database\bin\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.Persistence.Database.dll
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Persistence.Database\bin\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.Persistence.Database.pdb
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Persistence.Database\bin\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.Domain.dll
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Persistence.Database\bin\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.Domain.pdb
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Persistence.Database\obj\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.Persistence.Database.csprojAssemblyReference.cache
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Persistence.Database\obj\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.Persistence.Database.AssemblyInfoInputs.cache
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Persistence.Database\obj\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.Persistence.Database.AssemblyInfo.cs
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Persistence.Database\obj\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.Persistence.Database.csproj.CopyComplete
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Persistence.Database\obj\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.Persistence.Database.dll
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Persistence.Database\obj\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.Persistence.Database.pdb

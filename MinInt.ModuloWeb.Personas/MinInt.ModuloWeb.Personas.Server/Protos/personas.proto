@@ -1,0 +1,79 @@
+syntax = "proto3";
+
+option csharp_namespace = "Personas";
+
+package persona;
+
+service persona {
+	rpc Login (LoginRequest) returns (LoginReply);
+	rpc NewPass (NewPassRequest) returns (NewPassReply);
+	rpc WriteNewPass (WriteNewPassRequest) returns (WriteNewPassReply); 
+	rpc GetAllUsers (GetAllUsersRequest) returns (stream GetAllUsersReply);
+	rpc GetById (GetByIdRequest) returns (GetByIdReply);
+ }
+
+ message GetByIdRequest {
+ 	 int32 idPer = 1;
+ }
+
+ message GetByIdReply {
+	int32 idPer = 1;
+	string nombre = 2;
+	int32 idJefe = 3;
+	string nombreJefe = 4; 
+	int32 idCentroCosto = 5;
+	string centroCosto = 6;
+	int32 idSubrrogante = 7;
+	string nombreJefeSubrrogante = 8;
+
+ }
+
+message GetAllUsersRequest { 
+}
+
+message GetAllUsersReply {
+	Usuario usuario = 1;
+    ErrorCode error = 2;
+}
+
+message Usuario {
+	int32 idPer = 1;
+	string nombres = 2;
+	string apPaterno= 3;
+	string apMaterno = 4;
+	int32 rut = 5;
+	string digVer = 6; 
+	string correoElectronico = 7;
+}
+
+message LoginRequest {
+	int32 rut = 1;
+	string pass = 2;
+}
+
+message LoginReply {
+    ErrorCode error = 1;
+}
+
+message NewPassRequest {
+	int32 rut = 1;
+}
+
+message NewPassReply {
+	ErrorCode error = 1;
+}
+
+message WriteNewPassRequest {
+	string pass = 1;
+	int32 idPer = 2;
+}
+
+message WriteNewPassReply {
+	ErrorCode error = 1;
+}
+
+enum ErrorCode{
+	None = 0;
+	UsuarioNoResgistrado = 100;
+	PasswordIncorrecta = 200;
+}

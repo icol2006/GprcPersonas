@@ -1,0 +1,2 @@
+obj\Debug\netcoreapp3.1/Jefatura.cs \
+obj\Debug\netcoreapp3.1/JefaturaGrpc.cs: Protos/jefatura.proto

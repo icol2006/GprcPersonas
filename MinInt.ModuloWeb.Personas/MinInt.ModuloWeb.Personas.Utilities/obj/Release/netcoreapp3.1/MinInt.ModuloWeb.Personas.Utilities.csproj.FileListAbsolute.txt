@@ -1,0 +1,8 @@
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Utilities\bin\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.Utilities.deps.json
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Utilities\bin\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.Utilities.dll
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Utilities\bin\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.Utilities.pdb
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Utilities\obj\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.Utilities.csprojAssemblyReference.cache
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Utilities\obj\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.Utilities.AssemblyInfoInputs.cache
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Utilities\obj\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.Utilities.AssemblyInfo.cs
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Utilities\obj\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.Utilities.dll
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Utilities\obj\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.Utilities.pdb

@@ -1,0 +1,15 @@
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Queries\bin\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.Queries.deps.json
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Queries\bin\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.Queries.dll
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Queries\bin\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.Queries.pdb
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Queries\bin\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.Domain.dll
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Queries\bin\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.Persistence.Database.dll
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Queries\bin\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.Utilities.dll
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Queries\bin\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.Persistence.Database.pdb
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Queries\bin\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.Utilities.pdb
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Queries\bin\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.Domain.pdb
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Queries\obj\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.Queries.csprojAssemblyReference.cache
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Queries\obj\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.Queries.AssemblyInfoInputs.cache
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Queries\obj\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.Queries.AssemblyInfo.cs
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Queries\obj\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.Queries.csproj.CopyComplete
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Queries\obj\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.Queries.dll
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Queries\obj\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.Queries.pdb

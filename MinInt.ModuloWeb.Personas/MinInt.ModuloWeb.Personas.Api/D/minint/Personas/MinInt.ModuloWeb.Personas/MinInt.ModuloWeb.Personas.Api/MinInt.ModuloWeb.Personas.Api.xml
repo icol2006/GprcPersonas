@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MinInt.ModuloWeb.Personas.Api</name>
+    </assembly>
+    <members>
+        <member name="T:Emails.MailReflection">
+            <summary>Holder for reflection information generated from Protos/mail.proto</summary>
+        </member>
+        <member name="P:Emails.MailReflection.Descriptor">
+            <summary>File descriptor for Protos/mail.proto</summary>
+        </member>
+        <member name="F:Emails.MailRequest.CuentaDestinoFieldNumber">
+            <summary>Field number for the "cuentaDestino" field.</summary>
+        </member>
+        <member name="F:Emails.MailRequest.NombreFieldNumber">
+            <summary>Field number for the "nombre" field.</summary>
+        </member>
+        <member name="F:Emails.MailRequest.CodEmailFieldNumber">
+            <summary>Field number for the "codEmail" field.</summary>
+        </member>
+        <member name="F:Emails.MailRequest.IdPersonaFieldNumber">
+            <summary>Field number for the "idPersona" field.</summary>
+        </member>
+        <member name="F:Emails.MailReply.ErrorFieldNumber">
+            <summary>Field number for the "error" field.</summary>
+        </member>
+        <member name="P:Emails.Mailer.Descriptor">
+            <summary>Service descriptor</summary>
+        </member>
+        <member name="T:Emails.Mailer.MailerClient">
+            <summary>Client for Mailer</summary>
+        </member>
+        <member name="M:Emails.Mailer.MailerClient.#ctor(Grpc.Core.ChannelBase)">
+            <summary>Creates a new client for Mailer</summary>
+            <param name="channel">The channel to use to make remote calls.</param>
+        </member>
+        <member name="M:Emails.Mailer.MailerClient.#ctor(Grpc.Core.CallInvoker)">
+            <summary>Creates a new client for Mailer that uses a custom <c>CallInvoker</c>.</summary>
+            <param name="callInvoker">The callInvoker to use to make remote calls.</param>
+        </member>
+        <member name="M:Emails.Mailer.MailerClient.#ctor">
+            <summary>Protected parameterless constructor to allow creation of test doubles.</summary>
+        </member>
+        <member name="M:Emails.Mailer.MailerClient.#ctor(Grpc.Core.ClientBase.ClientBaseConfiguration)">
+            <summary>Protected constructor to allow creation of configured clients.</summary>
+            <param name="configuration">The client configuration.</param>
+        </member>
+        <member name="M:Emails.Mailer.MailerClient.NewInstance(Grpc.Core.ClientBase.ClientBaseConfiguration)">
+            <summary>Creates a new instance of client from given <c>ClientBaseConfiguration</c>.</summary>
+        </member>
+    </members>
+</doc>

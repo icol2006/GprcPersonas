@@ -1,0 +1,16 @@
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Domain\bin\Debug\netcoreapp3.1\MinInt.ModuloWeb.Personas.Domain.deps.json
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Domain\bin\Debug\netcoreapp3.1\MinInt.ModuloWeb.Personas.Domain.dll
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Domain\bin\Debug\netcoreapp3.1\MinInt.ModuloWeb.Personas.Domain.pdb
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Domain\obj\Debug\netcoreapp3.1\MinInt.ModuloWeb.Personas.Domain.AssemblyInfoInputs.cache
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Domain\obj\Debug\netcoreapp3.1\MinInt.ModuloWeb.Personas.Domain.AssemblyInfo.cs
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Domain\obj\Debug\netcoreapp3.1\MinInt.ModuloWeb.Personas.Domain.dll
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Domain\obj\Debug\netcoreapp3.1\MinInt.ModuloWeb.Personas.Domain.pdb
+D:\GitLab\Usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Domain\obj\Debug\netcoreapp3.1\MinInt.ModuloWeb.Personas.Domain.csprojAssemblyReference.cache
+C:\Users\Maykol\Desktop\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Domain\bin\Debug\netcoreapp3.1\MinInt.ModuloWeb.Personas.Domain.deps.json
+C:\Users\Maykol\Desktop\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Domain\bin\Debug\netcoreapp3.1\MinInt.ModuloWeb.Personas.Domain.dll
+C:\Users\Maykol\Desktop\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Domain\bin\Debug\netcoreapp3.1\MinInt.ModuloWeb.Personas.Domain.pdb
+C:\Users\Maykol\Desktop\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Domain\obj\Debug\netcoreapp3.1\MinInt.ModuloWeb.Personas.Domain.csprojAssemblyReference.cache
+C:\Users\Maykol\Desktop\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Domain\obj\Debug\netcoreapp3.1\MinInt.ModuloWeb.Personas.Domain.AssemblyInfoInputs.cache
+C:\Users\Maykol\Desktop\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Domain\obj\Debug\netcoreapp3.1\MinInt.ModuloWeb.Personas.Domain.AssemblyInfo.cs
+C:\Users\Maykol\Desktop\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Domain\obj\Debug\netcoreapp3.1\MinInt.ModuloWeb.Personas.Domain.dll
+C:\Users\Maykol\Desktop\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Domain\obj\Debug\netcoreapp3.1\MinInt.ModuloWeb.Personas.Domain.pdb

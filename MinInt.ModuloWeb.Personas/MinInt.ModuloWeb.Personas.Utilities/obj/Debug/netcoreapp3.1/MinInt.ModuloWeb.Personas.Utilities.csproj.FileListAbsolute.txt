@@ -1,0 +1,16 @@
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Utilities\bin\Debug\netcoreapp3.1\MinInt.ModuloWeb.Personas.Utilities.deps.json
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Utilities\bin\Debug\netcoreapp3.1\MinInt.ModuloWeb.Personas.Utilities.dll
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Utilities\bin\Debug\netcoreapp3.1\MinInt.ModuloWeb.Personas.Utilities.pdb
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Utilities\obj\Debug\netcoreapp3.1\MinInt.ModuloWeb.Personas.Utilities.AssemblyInfoInputs.cache
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Utilities\obj\Debug\netcoreapp3.1\MinInt.ModuloWeb.Personas.Utilities.AssemblyInfo.cs
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Utilities\obj\Debug\netcoreapp3.1\MinInt.ModuloWeb.Personas.Utilities.dll
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Utilities\obj\Debug\netcoreapp3.1\MinInt.ModuloWeb.Personas.Utilities.pdb
+D:\GitLab\Usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Utilities\obj\Debug\netcoreapp3.1\MinInt.ModuloWeb.Personas.Utilities.csprojAssemblyReference.cache
+C:\Users\Maykol\Desktop\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Utilities\bin\Debug\netcoreapp3.1\MinInt.ModuloWeb.Personas.Utilities.deps.json
+C:\Users\Maykol\Desktop\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Utilities\bin\Debug\netcoreapp3.1\MinInt.ModuloWeb.Personas.Utilities.dll
+C:\Users\Maykol\Desktop\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Utilities\bin\Debug\netcoreapp3.1\MinInt.ModuloWeb.Personas.Utilities.pdb
+C:\Users\Maykol\Desktop\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Utilities\obj\Debug\netcoreapp3.1\MinInt.ModuloWeb.Personas.Utilities.csprojAssemblyReference.cache
+C:\Users\Maykol\Desktop\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Utilities\obj\Debug\netcoreapp3.1\MinInt.ModuloWeb.Personas.Utilities.AssemblyInfoInputs.cache
+C:\Users\Maykol\Desktop\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Utilities\obj\Debug\netcoreapp3.1\MinInt.ModuloWeb.Personas.Utilities.AssemblyInfo.cs
+C:\Users\Maykol\Desktop\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Utilities\obj\Debug\netcoreapp3.1\MinInt.ModuloWeb.Personas.Utilities.dll
+C:\Users\Maykol\Desktop\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Utilities\obj\Debug\netcoreapp3.1\MinInt.ModuloWeb.Personas.Utilities.pdb

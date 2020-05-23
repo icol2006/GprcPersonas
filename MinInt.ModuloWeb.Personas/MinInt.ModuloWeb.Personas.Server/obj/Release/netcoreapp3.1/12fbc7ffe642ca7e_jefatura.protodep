@@ -1,0 +1,2 @@
+obj\Release\netcoreapp3.1/Jefatura.cs \
+obj\Release\netcoreapp3.1/JefaturaGrpc.cs: Protos/jefatura.proto

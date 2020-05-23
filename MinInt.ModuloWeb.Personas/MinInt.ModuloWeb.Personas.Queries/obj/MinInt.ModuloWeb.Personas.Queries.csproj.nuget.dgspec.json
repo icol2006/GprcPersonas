@@ -1,0 +1,265 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Maykol\\Desktop\\usuarios\\MinInt.ModuloWeb.Personas\\MinInt.ModuloWeb.Personas.Queries\\MinInt.ModuloWeb.Personas.Queries.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Maykol\\Desktop\\usuarios\\MinInt.ModuloWeb.Personas\\MinInt.ModuloWeb.Personas.Domain\\MinInt.ModuloWeb.Personas.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Maykol\\Desktop\\usuarios\\MinInt.ModuloWeb.Personas\\MinInt.ModuloWeb.Personas.Domain\\MinInt.ModuloWeb.Personas.Domain.csproj",
+        "projectName": "MinInt.ModuloWeb.Personas.Domain",
+        "projectPath": "C:\\Users\\Maykol\\Desktop\\usuarios\\MinInt.ModuloWeb.Personas\\MinInt.ModuloWeb.Personas.Domain\\MinInt.ModuloWeb.Personas.Domain.csproj",
+        "packagesPath": "C:\\Users\\Maykol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Maykol\\Desktop\\usuarios\\MinInt.ModuloWeb.Personas\\MinInt.ModuloWeb.Personas.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Maykol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Maykol\\Desktop\\usuarios\\MinInt.ModuloWeb.Personas\\MinInt.ModuloWeb.Personas.Persistence.Database\\MinInt.ModuloWeb.Personas.Persistence.Database.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Maykol\\Desktop\\usuarios\\MinInt.ModuloWeb.Personas\\MinInt.ModuloWeb.Personas.Persistence.Database\\MinInt.ModuloWeb.Personas.Persistence.Database.csproj",
+        "projectName": "MinInt.ModuloWeb.Personas.Persistence.Database",
+        "projectPath": "C:\\Users\\Maykol\\Desktop\\usuarios\\MinInt.ModuloWeb.Personas\\MinInt.ModuloWeb.Personas.Persistence.Database\\MinInt.ModuloWeb.Personas.Persistence.Database.csproj",
+        "packagesPath": "C:\\Users\\Maykol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Maykol\\Desktop\\usuarios\\MinInt.ModuloWeb.Personas\\MinInt.ModuloWeb.Personas.Persistence.Database\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Maykol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Maykol\\Desktop\\usuarios\\MinInt.ModuloWeb.Personas\\MinInt.ModuloWeb.Personas.Domain\\MinInt.ModuloWeb.Personas.Domain.csproj": {
+                "projectPath": "C:\\Users\\Maykol\\Desktop\\usuarios\\MinInt.ModuloWeb.Personas\\MinInt.ModuloWeb.Personas.Domain\\MinInt.ModuloWeb.Personas.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Maykol\\Desktop\\usuarios\\MinInt.ModuloWeb.Personas\\MinInt.ModuloWeb.Personas.Queries\\MinInt.ModuloWeb.Personas.Queries.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Maykol\\Desktop\\usuarios\\MinInt.ModuloWeb.Personas\\MinInt.ModuloWeb.Personas.Queries\\MinInt.ModuloWeb.Personas.Queries.csproj",
+        "projectName": "MinInt.ModuloWeb.Personas.Queries",
+        "projectPath": "C:\\Users\\Maykol\\Desktop\\usuarios\\MinInt.ModuloWeb.Personas\\MinInt.ModuloWeb.Personas.Queries\\MinInt.ModuloWeb.Personas.Queries.csproj",
+        "packagesPath": "C:\\Users\\Maykol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Maykol\\Desktop\\usuarios\\MinInt.ModuloWeb.Personas\\MinInt.ModuloWeb.Personas.Queries\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Maykol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Maykol\\Desktop\\usuarios\\MinInt.ModuloWeb.Personas\\MinInt.ModuloWeb.Personas.Persistence.Database\\MinInt.ModuloWeb.Personas.Persistence.Database.csproj": {
+                "projectPath": "C:\\Users\\Maykol\\Desktop\\usuarios\\MinInt.ModuloWeb.Personas\\MinInt.ModuloWeb.Personas.Persistence.Database\\MinInt.ModuloWeb.Personas.Persistence.Database.csproj"
+              },
+              "C:\\Users\\Maykol\\Desktop\\usuarios\\MinInt.ModuloWeb.Personas\\MinInt.ModuloWeb.Personas.Utilities\\MinInt.ModuloWeb.Personas.Utilities.csproj": {
+                "projectPath": "C:\\Users\\Maykol\\Desktop\\usuarios\\MinInt.ModuloWeb.Personas\\MinInt.ModuloWeb.Personas.Utilities\\MinInt.ModuloWeb.Personas.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Maykol\\Desktop\\usuarios\\MinInt.ModuloWeb.Personas\\MinInt.ModuloWeb.Personas.Utilities\\MinInt.ModuloWeb.Personas.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Maykol\\Desktop\\usuarios\\MinInt.ModuloWeb.Personas\\MinInt.ModuloWeb.Personas.Utilities\\MinInt.ModuloWeb.Personas.Utilities.csproj",
+        "projectName": "MinInt.ModuloWeb.Personas.Utilities",
+        "projectPath": "C:\\Users\\Maykol\\Desktop\\usuarios\\MinInt.ModuloWeb.Personas\\MinInt.ModuloWeb.Personas.Utilities\\MinInt.ModuloWeb.Personas.Utilities.csproj",
+        "packagesPath": "C:\\Users\\Maykol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Maykol\\Desktop\\usuarios\\MinInt.ModuloWeb.Personas\\MinInt.ModuloWeb.Personas.Utilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Maykol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Domain\bin\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.Domain.deps.json
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Domain\bin\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.Domain.dll
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Domain\bin\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.Domain.pdb
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Domain\obj\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.Domain.csprojAssemblyReference.cache
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Domain\obj\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.Domain.AssemblyInfoInputs.cache
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Domain\obj\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.Domain.AssemblyInfo.cs
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Domain\obj\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.Domain.dll
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.Domain\obj\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.Domain.pdb

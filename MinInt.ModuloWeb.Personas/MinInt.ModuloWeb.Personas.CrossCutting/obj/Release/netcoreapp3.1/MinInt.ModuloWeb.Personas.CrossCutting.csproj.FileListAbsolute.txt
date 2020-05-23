@@ -1,0 +1,17 @@
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.CrossCutting\bin\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.CrossCutting.deps.json
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.CrossCutting\bin\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.CrossCutting.dll
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.CrossCutting\bin\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.CrossCutting.pdb
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.CrossCutting\bin\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.Domain.dll
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.CrossCutting\bin\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.Persistence.Database.dll
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.CrossCutting\bin\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.Queries.dll
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.CrossCutting\bin\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.Utilities.dll
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.CrossCutting\bin\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.Queries.pdb
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.CrossCutting\bin\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.Domain.pdb
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.CrossCutting\bin\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.Persistence.Database.pdb
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.CrossCutting\bin\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.Utilities.pdb
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.CrossCutting\obj\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.CrossCutting.csprojAssemblyReference.cache
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.CrossCutting\obj\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.CrossCutting.AssemblyInfoInputs.cache
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.CrossCutting\obj\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.CrossCutting.AssemblyInfo.cs
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.CrossCutting\obj\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.CrossCutting.csproj.CopyComplete
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.CrossCutting\obj\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.CrossCutting.dll
+D:\GitLab\usuarios\MinInt.ModuloWeb.Personas\MinInt.ModuloWeb.Personas.CrossCutting\obj\Release\netcoreapp3.1\MinInt.ModuloWeb.Personas.CrossCutting.pdb

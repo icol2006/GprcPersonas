@@ -1,0 +1,2 @@
+obj\Release\netcoreapp3.1/Mail.cs \
+obj\Release\netcoreapp3.1/MailGrpc.cs: Protos/mail.proto

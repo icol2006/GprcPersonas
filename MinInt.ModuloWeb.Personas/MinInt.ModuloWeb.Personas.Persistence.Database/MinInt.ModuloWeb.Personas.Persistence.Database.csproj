@@ -1,0 +1,64 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20200314185308_mod0.cs" />
+    <Compile Remove="Migrations\20200314185308_mod0.Designer.cs" />
+    <Compile Remove="Migrations\20200314190233_mod1.cs" />
+    <Compile Remove="Migrations\20200314190233_mod1.Designer.cs" />
+    <Compile Remove="Migrations\20200314191106_mod2.cs" />
+    <Compile Remove="Migrations\20200314191106_mod2.Designer.cs" />
+    <Compile Remove="Migrations\20200314191432_mod0.cs" />
+    <Compile Remove="Migrations\20200314191432_mod0.Designer.cs" />
+    <Compile Remove="Migrations\20200314192049_mod1.cs" />
+    <Compile Remove="Migrations\20200314192049_mod1.Designer.cs" />
+    <Compile Remove="Migrations\20200314192700_mod0.cs" />
+    <Compile Remove="Migrations\20200314192700_mod0.Designer.cs" />
+    <Compile Remove="Migrations\20200314231403_Initialize.cs" />
+    <Compile Remove="Migrations\20200314231403_Initialize.Designer.cs" />
+    <Compile Remove="Migrations\20200315201512_inicio.cs" />
+    <Compile Remove="Migrations\20200315201512_inicio.Designer.cs" />
+    <Compile Remove="Migrations\20200315210729_mod0.cs" />
+    <Compile Remove="Migrations\20200315210729_mod0.Designer.cs" />
+    <Compile Remove="Migrations\20200315214624_mod1.cs" />
+    <Compile Remove="Migrations\20200315214624_mod1.Designer.cs" />
+    <Compile Remove="Migrations\20200317013243_mod2.cs" />
+    <Compile Remove="Migrations\20200317013243_mod2.Designer.cs" />
+    <Compile Remove="Migrations\20200317192214_mod3.cs" />
+    <Compile Remove="Migrations\20200317192214_mod3.Designer.cs" />
+    <Compile Remove="Migrations\20200317194810_mod4.cs" />
+    <Compile Remove="Migrations\20200317194810_mod4.Designer.cs" />
+    <Compile Remove="Migrations\20200317195039_mod5.cs" />
+    <Compile Remove="Migrations\20200317195039_mod5.Designer.cs" />
+    <Compile Remove="Migrations\20200317195448_mod0.cs" />
+    <Compile Remove="Migrations\20200317195448_mod0.Designer.cs" />
+    <Compile Remove="Migrations\20200317195545_mod0.cs" />
+    <Compile Remove="Migrations\20200317195545_mod0.Designer.cs" />
+    <Compile Remove="Migrations\20200320203023_inicial.cs" />
+    <Compile Remove="Migrations\20200320203023_inicial.Designer.cs" />
+    <Compile Remove="Migrations\20200320235723_inicial.cs" />
+    <Compile Remove="Migrations\20200320235723_inicial.Designer.cs" />
+    <Compile Remove="Migrations\20200321012927_mod0.cs" />
+    <Compile Remove="Migrations\20200321012927_mod0.Designer.cs" />
+    <Compile Remove="Migrations\20200330020932_mod1.cs" />
+    <Compile Remove="Migrations\20200330020932_mod1.Designer.cs" />
+    <Compile Remove="Migrations\20200330023132_mod2.cs" />
+    <Compile Remove="Migrations\20200330023132_mod2.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.2">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MinInt.ModuloWeb.Personas.Domain\MinInt.ModuloWeb.Personas.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
